@@ -5,3 +5,4 @@ Tareas:
  - Ver Tutorial sobre Panamá Papers
  - 
  - Establecer código entre Periodistas
+ - Panama papers en formato csv y json por ICIJ: https://github.com/amaboura/panama-papers-dataset-2016	
